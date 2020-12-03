@@ -1,2 +1,0 @@
-# landmarks
-demo
